@@ -1,43 +1,28 @@
-# 📊 Sales Data Analysis – Power BI
+## 📊 Analysis Performed
 
-## 📌 Project Overview
-
-This project analyzes sales data using Microsoft Power BI to identify
-sales trends, top-performing products, quantity sold, and business insights.
-
-## 🛠️ Tools & Technologies
-
-- Microsoft Power BI
-- Power Query
-- DAX
-- Data Cleaning
-- Data Analysis
-- Data Visualization
-
-## 📈 Analysis Performed
-
-- Top 5 products by sales
-- Top 5 products by quantity sold
-- Bottom 5 products by quantity sold
-- Product-level sales analysis
-- Product performance comparison
+- Analyzed the top 5 products by sales.
+- Analyzed the top 5 products by quantity sold.
+- Identified the bottom 5 products by quantity sold.
+- Performed product-level sales analysis.
+- Compared product performance based on sales and quantity sold.
 
 ## 💡 Key Insights
 
-- Identified the highest-performing products based on sales.
+- Identified the highest-performing products based on total sales.
 - Compared products based on quantity sold.
-- Identified products with lower performance.
-- Created visual dashboards to support business analysis.
+- Identified underperforming products based on sales and quantity sold.
+- Created an interactive Power BI dashboard to support business analysis and decision-making.
 
 ## 📊 Dashboard
 
-The dashboard provides a visual analysis of product sales and quantity performance.
+![Sales Data Analysis Dashboard](image.png)
 
 ## 📁 Project Files
 
-- `PowerBI project 1, Sales Data Analysis.pbix` – Power BI dashboard
+- `PowerBI project 1, Sales Data Analysis.pbix` – Power BI dashboard and data model
 - `README.md` – Project documentation
+- `image.png` – Dashboard preview
 
-## 👩‍💻 Skills Demonstrated
+## 🛠️ Skills Demonstrated
 
 **Power BI | DAX | Power Query | Data Cleaning | Data Visualization | Business Analysis**
