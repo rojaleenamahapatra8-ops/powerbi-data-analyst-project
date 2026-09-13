@@ -1,5 +1,43 @@
-<img width="1416" height="807" alt="image" src="https://github.com/user-attachments/assets/998cfe7e-90b0-468d-b6e1-04e43a76caa6" />
-<img width="1352" height="720" alt="image" src="https://github.com/user-attachments/assets/c7f20fb1-7483-4d7d-9abf-9c924651a972" />
-<img width="1552" height="872" alt="image" src="https://github.com/user-attachments/assets/38b7c433-d38d-49fe-a783-e487850f1fd4" />
-<img width="1422" height="822" alt="image" src="https://github.com/user-attachments/assets/649bfeae-d74f-4485-9870-5db21eabec64" />
-<img width="1387" height="712" alt="image" src="https://github.com/user-attachments/assets/3a5eabbb-73ac-457a-ae23-dfd9024d5f9e" />
+# 📊 Sales Data Analysis – Power BI
+
+## 📌 Project Overview
+
+This project analyzes sales data using Microsoft Power BI to identify
+sales trends, top-performing products, quantity sold, and business insights.
+
+## 🛠️ Tools & Technologies
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+
+## 📈 Analysis Performed
+
+- Top 5 products by sales
+- Top 5 products by quantity sold
+- Bottom 5 products by quantity sold
+- Product-level sales analysis
+- Product performance comparison
+
+## 💡 Key Insights
+
+- Identified the highest-performing products based on sales.
+- Compared products based on quantity sold.
+- Identified products with lower performance.
+- Created visual dashboards to support business analysis.
+
+## 📊 Dashboard
+
+The dashboard provides a visual analysis of product sales and quantity performance.
+
+## 📁 Project Files
+
+- `PowerBI project 1, Sales Data Analysis.pbix` – Power BI dashboard
+- `README.md` – Project documentation
+
+## 👩‍💻 Skills Demonstrated
+
+**Power BI | DAX | Power Query | Data Cleaning | Data Visualization | Business Analysis**
